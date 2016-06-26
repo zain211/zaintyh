@@ -28,7 +28,7 @@ git clone https://github.com/https://github.com/zain211/zaintyh.git
 
 #step4 : Writ >
 
-cd zain211
+cd zain211/zaintyh
 
 
 
